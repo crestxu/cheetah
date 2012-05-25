@@ -1,0 +1,11 @@
+Source: wiavia-cheetah
+Section: devel
+Priority: optional
+Maintainer: Phuoc Do <phuocd@wiavia.com>
+Build-Depends: debhelper (>= 7.0.10~)
+Standards-Version: 3.8.4
+
+Package: wiavia-cheetah
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Backend video processor for download, conversion. Input video can also be from butterfly web upload.

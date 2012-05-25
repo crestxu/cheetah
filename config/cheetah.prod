@@ -1,0 +1,10 @@
+ssl.pem.fullpath=../../../docs/server.pem
+ssl.tmp_dh.fullpath=../../../docs/dh512.pem
+
+server.http_port=3001
+server.control_port=4001
+
+db.host=localhost
+db.username=admin
+db.password=Vpp6QrDqqMt7xuJV
+db.name=cougar
