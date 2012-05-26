@@ -5,6 +5,6 @@ server.http_port=3002
 server.control_port=4002
 
 db.host=localhost
-db.username=admin
-db.password=Vpp6QrDqqMt7xuJV
+db.username=username
+db.password=password
 db.name=staging_cougar
