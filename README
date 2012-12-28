@@ -1,4 +1,6 @@
-cheetah - video server for surveillance applications. Used by portcamapp.com.
+cheetah - real time message communication server written in C++.
+
+Used by portcamapp.com.
 
 BSD License
 
